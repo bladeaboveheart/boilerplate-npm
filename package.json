@@ -5,6 +5,11 @@
   },
   "author": "Diazgany Prayogo",
   "description": "Flashcard",
+  "keywords": [
+    "learning",
+    "vocabulary",
+    "language"
+  ],
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
