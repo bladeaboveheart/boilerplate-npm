@@ -4,11 +4,11 @@
     "express": "^4.14.0"
   },
   "author": "Diazgany Prayogo",
+  "description": "Flashcard",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "description": "Flashcard",
   "repository": {
     "type": "git",
     "url": "https://github.com/bladeaboveheart/boilerplate-npm.git"
